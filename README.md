@@ -5,3 +5,6 @@ One more than eight
 
 A perceptron could figure out what a nine was!
 (Perceptrons are so cool!...)
+
+
+Is this thing on?
